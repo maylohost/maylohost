@@ -1,4 +1,4 @@
-# Personal GitHub Page
+# GitHub Page
 
 This is my personal GitHub page.
 
