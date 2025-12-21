@@ -750,6 +750,33 @@ body {
     .link-description {
         font-size: 12px;
     }
+
+    /* Predictech mobile layout */
+    .predictech-header {
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .predictech-header-content {
+        flex: 1;
+    }
+
+    .predictech-title-row {
+        width: 100%;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .predictech-header h3 {
+        font-size: 16px;
+        color: var(--text-primary);
+    }
+
+    .predictech-link-icon {
+        font-size: 14px;
+        color: #8b5cf6;
+    }
 }
 
 /* Animations */
