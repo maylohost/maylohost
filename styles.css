@@ -736,6 +736,17 @@ body {
         font-size: 14px;
         color: #8b5cf6;
     }
+
+    /* CGS mobile - smaller PNG */
+    .cgs-card .link-icon {
+        max-width: 200px;
+        max-height: 80px;
+    }
+
+    .cgs-card .link-icon img {
+        max-width: 200px;
+        max-height: 80px;
+    }
 }
 
 /* Animations */
