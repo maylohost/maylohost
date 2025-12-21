@@ -487,7 +487,7 @@ body {
 /* Bella Napoli Card Style */
 .bellanapoli-card {
     border-radius: 0 !important;
-    background: url('media/Bella Napoli - Logo orizzontale.png') no-repeat center center;
+    background: url('media/bnwp.png') no-repeat center center;
     background-size: cover;
     background-position: center center !important;
     background-color: rgba(0, 0, 0, 0.8);
@@ -520,7 +520,7 @@ body {
 }
 
 .link-card.bellanapoli-card:hover {
-    background-image: url('media/Bella Napoli - Logo orizzontale.png') !important;
+    background-image: url('media/bnwp.png') !important;
     background-size: cover !important;
     background-position: center center !important;
     background-color: rgba(0, 0, 0, 0.8) !important;
